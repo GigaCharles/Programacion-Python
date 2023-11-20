@@ -1,4 +1,3 @@
-
 numero = 1 
 acumulador = 0
 contador = 0
